@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning data science (newbie)
 - 💞️ I’m looking to collaborate on learning to code in SQL, Python and R 
-- 📫 How to reach me iam.evayuliana@gmail.com
+- 📫 How to reach me eva.yuliana75@outlook.com
 
 <!---
 Eva0475/Eva0475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
